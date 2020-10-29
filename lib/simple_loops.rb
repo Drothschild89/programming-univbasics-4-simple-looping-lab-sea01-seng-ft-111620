@@ -14,7 +14,7 @@ def output_array(array)
   i = 0
   while array[i] do
     puts array[i]
-    counter += 1
+    i += 1
   end
 end
 

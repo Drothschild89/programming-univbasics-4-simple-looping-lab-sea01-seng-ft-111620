@@ -25,5 +25,5 @@ def return_string_array(array)
   new_array.push(array[count].to_s)
   count += 1 
 end
-new_array
+print new_array
 end
